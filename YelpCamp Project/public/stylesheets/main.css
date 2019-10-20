@@ -1,0 +1,28 @@
+
+.img-responsive{
+    max-width: 100%;
+    height: auto;
+}
+
+.img-thumbnail{
+    padding: 0;
+}
+
+.navbar {
+    margin-bottom: 2.5em;
+}
+
+.img-thumbnail .caption-full {
+    padding: 9px;
+}
+
+#delete-form {
+    display: inline;
+}
+
+.btn-group-xs > .btn, .btn-xs {
+    padding: .25rem .4rem;
+    font-size: .875rem;
+    line-height: 1;
+    border-radius: .2rem;
+  }
